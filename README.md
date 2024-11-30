@@ -87,7 +87,3 @@ This project leverages the **Scapy** library for packet manipulation and real-ti
 
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code.
-
---- 
-
-Feel free to customize the description based on your project’s unique details or your personal touch!
