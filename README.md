@@ -1,6 +1,4 @@
 # Network-Analysis
-Here’s a well-structured description for your GitHub repository:
-
 ---
 
 # Network Scanner Tool
